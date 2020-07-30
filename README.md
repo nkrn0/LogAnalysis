@@ -2,6 +2,7 @@
 プログラミング試験問題の回答プログラミングになります。
 
 〇ビルド環境
+
 言語: C# 
 
 OS: Windows 10 Home バージョン 1903（OS ビルド 18362.778） 
@@ -12,10 +13,12 @@ OS: Windows 10 Home バージョン 1903（OS ビルド 18362.778）
 
 
 〇ビルド方式 
+
 Visual Studioを使用し、コーディングした後にコマンドプロンプトにてcsc.exeを呼び出してビルドを行いました。
 
 
 〇実行方法
+
 LogAnalysis.exeをコマンドプロンプトから実行します。
 その際に、出力される指示に従って、アクセスログファイルのパスを任意数と解析する期間(年月日)を入力してください。
 
@@ -35,12 +38,14 @@ LogAnalysis.exeをコマンドプロンプトから実行します。
 
 
 〇作者
+
 氏名: 上野拓海
 
 e-mail: uetaku093010@gmail.com
 
 
 〇参考文献
+
 ・[C#] リスト（List）の使い方まとめ, https://yaspage.com/prog/csharp/cs-list/, 2020/7/30 時点
 
 ・【C#入門】DictionaryのKey、Valueの使い方(要素の追加、取得も解説), https://www.sejuku.net/blog/41326, 2020/7/30 時点
