@@ -3,8 +3,11 @@
 
 〇ビルド環境
 言語: C# 
+
 OS: Windows 10 Home バージョン 1903（OS ビルド 18362.778） 
+
 総合開発環境: Microsoft Visual Studio Community 2019（Version 16.5.4） 
+
 コンパイラー: Microsoft.NET v4.0.30319 
 
 〇ビルド方式 
